@@ -1,0 +1,911 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"root",
+				"rootVal"
+			],
+			[
+				"pos",
+				"postOrder"
+			],
+			[
+				"post",
+				"postEnd"
+			],
+			[
+				"fal",
+				"flag"
+			],
+			[
+				"tree",
+				"treeMaxPos"
+			],
+			[
+				"read",
+				"readPos"
+			],
+			[
+				"le",
+				"lenP"
+			],
+			[
+				"len",
+				"lenO"
+			],
+			[
+				"max",
+				"maxMilk"
+			],
+			[
+				"cur",
+				"currentEnd"
+			],
+			[
+				"cu",
+				"currentMilk"
+			],
+			[
+				"list",
+				"listf"
+			],
+			[
+				"min",
+				"minPos"
+			],
+			[
+				"gra",
+				"graphf"
+			],
+			[
+				"ma",
+				"matrix"
+			],
+			[
+				"end",
+				"end3"
+			],
+			[
+				"sta",
+				"stack2"
+			],
+			[
+				"op",
+				"oper"
+			],
+			[
+				"oep",
+				"oper1"
+			],
+			[
+				"get",
+				"getOper"
+			],
+			[
+				"ER",
+				"ERROR_MESSAGE"
+			],
+			[
+				"q",
+				"qMax"
+			],
+			[
+				"print",
+				"printP"
+			],
+			[
+				"single",
+				"singleRightRotate"
+			],
+			[
+				"doub",
+				"doubleLeftRotate"
+			],
+			[
+				"singl",
+				"singleLeftRotate"
+			],
+			[
+				"ins",
+				"ins1"
+			],
+			[
+				"or",
+				"oriL"
+			],
+			[
+				"current",
+				"currentNum"
+			],
+			[
+				"cal",
+				"calculate"
+			],
+			[
+				"nu",
+				"number"
+			],
+			[
+				"curr",
+				"currentOper"
+			],
+			[
+				"curre",
+				"currentOper"
+			],
+			[
+				"curren",
+				"currentOper"
+			],
+			[
+				"peopel",
+				"peopleS"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"to",
+				"total"
+			],
+			[
+				"new",
+				"newTop"
+			],
+			[
+				"tre",
+				"tree1"
+			],
+			[
+				"re",
+				"rep"
+			],
+			[
+				"str",
+				"strcmp"
+			],
+			[
+				"nex",
+				"next"
+			],
+			[
+				"Ma",
+				"MAXAD"
+			],
+			[
+				"next",
+				"nextAddr"
+			],
+			[
+				"ne",
+				"next"
+			],
+			[
+				"pirnt",
+				"printList"
+			],
+			[
+				"ad",
+				"addressNext"
+			],
+			[
+				"coe",
+				"coefC"
+			],
+			[
+				"coef",
+				"coefB"
+			],
+			[
+				"co",
+				"coefC"
+			],
+			[
+				"ceof",
+				"coefC"
+			],
+			[
+				"expo",
+				"expoC"
+			],
+			[
+				"kind",
+				"kindNum"
+			],
+			[
+				"au",
+				"author"
+			],
+			[
+				"aut",
+				"authorPos"
+			],
+			[
+				"thor",
+				"thorN"
+			],
+			[
+				"tho",
+				"thorN"
+			],
+			[
+				"num1",
+				"num100"
+			],
+			[
+				"list2",
+				"list2Current"
+			],
+			[
+				"list1",
+				"list1Current"
+			],
+			[
+				"li1",
+				"list1Start"
+			],
+			[
+				"star",
+				"startMax"
+			],
+			[
+				"oil",
+				"oilMatrix"
+			],
+			[
+				"posT",
+				"posToR"
+			],
+			[
+				"posTo",
+				"posToL"
+			],
+			[
+				"ans",
+				"answer"
+			],
+			[
+				"row",
+				"rowInfo"
+			],
+			[
+				"matr",
+				"matrixAns"
+			],
+			[
+				"ex",
+				"exist"
+			],
+			[
+				"tot",
+				"totalRound"
+			],
+			[
+				"card",
+				"cardNum"
+			],
+			[
+				"B",
+				"Bpos"
+			],
+			[
+				"A",
+				"Apos"
+			],
+			[
+				"lea",
+				"leafNum"
+			],
+			[
+				"tr",
+				"tree"
+			],
+			[
+				"po",
+				"postR"
+			],
+			[
+				"stu",
+				"stuArray"
+			],
+			[
+				"a",
+				"avg"
+			],
+			[
+				"is",
+				"isMirror"
+			],
+			[
+				"con",
+				"connect"
+			],
+			[
+				"ar",
+				"arrayNew"
+			],
+			[
+				"array",
+				"arrayNew"
+			],
+			[
+				"foun",
+				"foundNum"
+			],
+			[
+				"num",
+				"num"
+			],
+			[
+				"fou",
+				"foundNum"
+			],
+			[
+				"find",
+				"find16Num"
+			],
+			[
+				"retur",
+				"return"
+			],
+			[
+				"stack",
+				"stackArray"
+			],
+			[
+				"mon",
+				"monthD"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "test.asm",
+			"settings":
+			{
+				"buffer_size": 2231,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "helloworld.asm",
+			"settings":
+			{
+				"buffer_size": 716,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++11/C++11.sublime-build",
+					""
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++11/C++11.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 149.0,
+		"last_filter": "install ",
+		"selected_items":
+		[
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: fprintf …"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"cd",
+			"s",
+			"ls",
+			"1",
+			"print(1+1)",
+			"python",
+			"⁄s",
+			"install",
+			"instal l",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/edward/Downloads/computer_science/code/asm"
+	],
+	"file_history":
+	[
+		"/Users/edward/Desktop/subtract.c",
+		"/Users/edward/Desktop/test.c",
+		"/Users/edward/Downloads/computer_science/code/code_con/AcmPractice/buaaOj/test.asm",
+		"/Users/edward/Downloads/computer_science/code/code_con/AcmPractice/buaaOj/test.c",
+		"/Users/edward/Downloads/computer_science/code/code_con/AcmPractice/buaaOj/对称树.c",
+		"/Users/edward/Desktop/code_con/AcmPractice/pta/单元最短路径.cpp",
+		"/Users/edward/Desktop/code_con/AcmPractice/buaaOj/test.c",
+		"/Users/edward/Desktop/img/img4.svg",
+		"/Users/edward/Desktop/code_con/AcmPractice/buaaOj/滑动窗口最大值.cpp",
+		"/Users/edward/Desktop/code_con/AcmPractice/pta/test.cpp",
+		"/Users/edward/Desktop/code_con/AcmPractice/pta/六度空间 .cpp",
+		"/Users/edward/Desktop/code_con/AcmPractice/uva/uva297.cpp",
+		"/Users/edward/Desktop/code_con/AcmPractice/pta/DFS-BFD.cpp",
+		"/Users/edward/Desktop/code_con/AcmPractice/buaaOj/avl.cpp",
+		"/Users/edward/Desktop/code_con/AcmPractice/.test.cpp.swp",
+		"/Users/edward/Desktop/code_con/AcmPractice/buaaOj/test",
+		"/Users/edward/Desktop/code_con/AcmPractice/buaaOj/test.cpp~",
+		"/Users/edward/Desktop/code_con/AcmPractice/test.c",
+		"/Users/edward/.emacs",
+		"/Users/edward/Desktop/code_con/AcmPractice/buaaOj/biaodashiqiuzhi.cpp",
+		"/Users/edward/Desktop/code_con/AcmPractice/buaaOj/untitled",
+		"/Users/edward/Desktop/code_con/AcmPractice/buaaOj/shutonggou.cpp",
+		"/Users/edward/Desktop/code_con/AcmPractice/uva/uva548.cpp",
+		"/Users/edward/Desktop/code_con/AcmPractice/buaaOj/microRadar.cpp",
+		"/Users/edward/Desktop/code_con/AcmPractice/buaaOj/modricBack.cpp",
+		"/Users/edward/Desktop/code_con/AcmPractice/buaaOj/ru0",
+		"/Users/edward/Downloads/computer_science/code_ex/code_con/test",
+		"/Users/edward/Downloads/computer_science/code_ex/code_con/test.cpp",
+		"/Users/edward/Desktop/code_con/AcmPractice/buaaOj/a.out",
+		"/Users/edward/Desktop/code_con/AcmPractice/buaaOj/Zjunrichangqiguai.cpp",
+		"/Users/edward/Desktop/code_con/AcmPractice/buaaOj/AZYchengjitongji.cpp",
+		"/Users/edward/Desktop/code_con/AcmPractice/buaaOj/fun",
+		"/Users/edward/Desktop/code_con/AcmPractice/buaaOj/huiwen.cpp",
+		"/Users/edward/Desktop/code_con/AcmPractice/buaaOj/rub",
+		"/Users/edward/Desktop/code_con/AcmPractice/uva/run",
+		"/Users/edward/Desktop/code_con/AcmPractice/uva/runb",
+		"/Users/edward/Desktop/code_con/AcmPractice/buaaOj/juzhen.cpp",
+		"/Users/edward/Desktop/code_con/AcmPractice/buaaOj/test.cpp",
+		"/Users/edward/Desktop/R.R",
+		"/Users/edward/desktop/R.R",
+		"/Users/edward/Desktop/code_con/AcmPractice/buaaOj/AZYjiaohuanshuzi.cpp",
+		"/Users/edward/Desktop/code_con/AcmPractice/buaaOj/jhjlxyoulaile.cpp",
+		"/Users/edward/Desktop/code_con/AcmPractice/buaaOj/kantushushu.cpp",
+		"/Users/edward/Desktop/code_con/AcmPractice/buaaOj/lianlianKanNan.cpp",
+		"/Users/edward/Desktop/code_con/AcmPractice/buaaOj/run",
+		"/Users/edward/Desktop/code_con/AcmPractice/buaaOj/microhhLibrary",
+		"/Users/edward/Desktop/code_con/AcmPractice/buaaOj/inverse.cpp",
+		"/Users/edward/Desktop/code_con/AcmPractice/uva/uva101.cpp",
+		"/Users/edward/Desktop/code_con/AcmPractice/usaco/test.cpp",
+		"/Users/edward/Desktop/code_con/AcmPractice/buaaOj/Modric.cpp",
+		"/Users/edward/Desktop/code_con/uva127.cpp",
+		"/Users/edward/Downloads/computer_science/code_ex/code_con/code.sublime-project",
+		"/Users/edward/Downloads/computer_science/videoCodec/ffmpeg/ffmpeg/libavcodec/evrcdec.d",
+		"/Users/edward/Downloads/ch13.tex",
+		"/Users/edward/Downloads/computer_science/videoCodec/x264_loft/encoder/ratecontrol.h",
+		"/Users/edward/Downloads/computer_science/videoCodec/x264_loft/encoder/ratecontrol.c",
+		"/Users/edward/Documents/computer science/作业/最大团问题大作业/material/ant/src/Dimacs.h",
+		"/Users/edward/Downloads/computer_science/videoCodec/x264_loft/x264.c",
+		"/Users/edward/Downloads/lab_wen/siggraph-related2018/pami_2017_dhp/pami2017_dhp.tex",
+		"/Users/edward/Downloads/IEEE%20Journal/main.tex",
+		"/Users/edward/Downloads/computer_science/videoCodec/x264_loft/encoder/encoder.c",
+		"/Users/edward/Downloads/computer_science/videoCodec/x264_loft/x264.h",
+		"/Users/edward/Library/Application Support/Sublime Text 3/Packages/User/CTags.sublime-settings",
+		"/Users/edward/Library/Application Support/Sublime Text 3/Packages/User/SublimeGDB.sublime-settings",
+		"/Users/edward/Library/Application Support/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
+		"/Users/edward/Downloads/computer_science/videoCodec/x264_loft/output/output.h",
+		"/Users/edward/Downloads/computer_science/videoCodec/x264_loft/common/aarch64/terminal.glue",
+		"/Users/edward/Downloads/computer_science/videoCodec/x264_loft/common/terminal.glue",
+		"/Users/edward/Downloads/computer_science/videoCodec/x264_loft/terminal.glue",
+		"/Users/edward/Downloads/computer_science/videoCodec/x264_loft/doc/terminal.glue",
+		"/Users/edward/Library/Application Support/Sublime Text 3/Packages/Glue/Glue.sublime-settings",
+		"/Users/edward/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-mousemap",
+		"/Users/edward/Library/Application Support/Sublime Text 3/Packages/User/make.sublime-build",
+		"/Users/edward/Downloads/computer_science/videoCodec/x264_loft/Makefile",
+		"/Users/edward/Downloads/computer_science/videoCodec/x264_loft/x264.sublime-project",
+		"/Users/edward/Downloads/computer_science/videoCodec/x264_loft/config.log",
+		"/Users/edward/Downloads/computer_science/videoCodec/x264_loft/common/win32thread.c",
+		"/Users/edward/Desktop/code_con/test.cpp",
+		"/Users/edward/Desktop/script",
+		"/Users/edward/Downloads/行列式.txt",
+		"/Users/edward/Downloads/新建文本文档.txt",
+		"/Users/edward/Downloads/computer_science/videoCodec/JM/lencod/src/weighted_prediction.c",
+		"/Users/edward/Downloads/computer_science/videoCodec/JM/lencod/src/vlc.c",
+		"/Users/edward/Downloads/computer_science/videoCodec/JM/lencod/src/slice.c",
+		"/Users/edward/Downloads/computer_science/videoCodec/JM/lencod/src/sei.c",
+		"/Users/edward/Downloads/computer_science/videoCodec/JM/lencod/src/rtp.c",
+		"/Users/edward/Downloads/computer_science/videoCodec/JM/lencod/src/refbuf.c",
+		"/Users/edward/Downloads/computer_science/videoCodec/JM/lencod/src/rdopt.c",
+		"/Users/edward/Downloads/computer_science/videoCodec/JM/lencod/src/rdopt_coding_state.c",
+		"/Users/edward/Downloads/computer_science/videoCodec/JM/lencod/src/ratectl.c",
+		"/Users/edward/Downloads/computer_science/videoCodec/JM/lencod/src/parsetcommon.c",
+		"/Users/edward/Downloads/computer_science/videoCodec/JM/lencod/src/parset.c",
+		"/Users/edward/Downloads/computer_science/videoCodec/JM/lencod/src/output.c",
+		"/Users/edward/Downloads/computer_science/videoCodec/JM/lencod/src/nalucommon.c",
+		"/Users/edward/Downloads/computer_science/videoCodec/JM/lencod/src/nalu.c",
+		"/Users/edward/Downloads/computer_science/videoCodec/JM/lencod/src/nal.c",
+		"/Users/edward/Downloads/computer_science/videoCodec/JM/lencod/src/mv-search.c",
+		"/Users/edward/Downloads/computer_science/videoCodec/JM/lencod/src/memalloc.c",
+		"/Users/edward/Downloads/computer_science/videoCodec/JM/lencod/src/mbuffer.c",
+		"/Users/edward/Downloads/computer_science/videoCodec/JM/lencod/src/mb_access.c",
+		"/Users/edward/Downloads/computer_science/videoCodec/JM/lencod/src/macroblock.c",
+		"/Users/edward/Downloads/computer_science/videoCodec/JM/lencod/src/loopFilter.c",
+		"/Users/edward/Downloads/computer_science/videoCodec/JM/lencod/src/lencod.c",
+		"/Users/edward/Downloads/computer_science/videoCodec/JM/lencod/src/leaky_bucket.c",
+		"/Users/edward/Downloads/computer_science/videoCodec/JM/lencod/src/intrarefresh.c",
+		"/Users/edward/Downloads/computer_science/videoCodec/JM/lencod/src/image.c",
+		"/Users/edward/Downloads/computer_science/videoCodec/JM/lencod/src/header.c",
+		"/Users/edward/Downloads/computer_science/videoCodec/JM/lencod/src/fmo.c",
+		"/Users/edward/Downloads/computer_science/videoCodec/JM/lencod/src/filehandle.c",
+		"/Users/edward/Downloads/computer_science/videoCodec/JM/lencod/src/fast_me.c",
+		"/Users/edward/Downloads/computer_science/videoCodec/JM/lencod/src/decoder.c",
+		"/Users/edward/Downloads/computer_science/videoCodec/JM/lencod/src/cabac.c",
+		"/Users/edward/Downloads/computer_science/videoCodec/JM/lencod/src/block.c",
+		"/Users/edward/Downloads/computer_science/videoCodec/JM/lencod/src/biariencode.c",
+		"/Users/edward/Desktop/video-test/test.264",
+		"/Users/edward/Downloads/computer_science/videoCodec/JM/lencod/src/annexb.c",
+		"/Users/edward/Downloads/computer_science/videoCodec/JM/lencod/src/context_ini.c",
+		"/Users/edward/Downloads/computer_science/videoCodec/JM/lencod/src/configfile.c",
+		"/Users/edward/Downloads/computer_science/videoCodec/JM/bin/test.264",
+		"/Users/edward/.Trash/gui-config-2.json",
+		"/Users/edward/Downloads/computer_science/videoCodec/JM/ldecod.vcproj",
+		"/Users/edward/Downloads/gui-config.json",
+		"/Users/edward/Downloads/gui-config-2.json",
+		"/Users/edward/Desktop/code_con/fl.cpp",
+		"/Users/edward/Downloads/frb100-40/frb100-40.mtx",
+		"/Users/edward/Desktop/shanghai/x265_loft/source/x265cli.h",
+		"/Users/edward/Desktop/shanghai/x265_loft/source/x265.h",
+		"/Users/edward/Desktop/shanghai/x265_loft/source/x265.cpp"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"r8",
+			"rdx",
+			"rax"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"e8",
+			"edx",
+			"eax"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "test.asm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2231,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1612,
+								1612
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++11/C++11.tmLanguage",
+							"tab_size": 5,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "helloworld.asm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 716,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								716,
+								716
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 226.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 130.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "asm.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"test.cpp",
+				".test.cpp.swp"
+			],
+			[
+				"mcq",
+				"mcqd.h"
+			],
+			[
+				"ratecon",
+				"encoder/ratecontrol.c"
+			],
+			[
+				"rate",
+				"encoder/ratecontrol.c"
+			],
+			[
+				"x264",
+				"x264.c"
+			],
+			[
+				"make",
+				"Makefile"
+			],
+			[
+				"x2",
+				"x264.c"
+			],
+			[
+				"",
+				"config.log"
+			],
+			[
+				"x264.c",
+				"x264.c"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "aaptive",
+		"selected_items":
+		[
+			[
+				"aaptive",
+				"x264_adaptive_quant_frame"
+			],
+			[
+				"main",
+				"main"
+			],
+			[
+				"x264_encoder",
+				"x264_encoder_encode"
+			],
+			[
+				"x264_ad",
+				"x264_adaptive_quant_frame"
+			],
+			[
+				"adap",
+				"x264_adaptive_quant_frame"
+			],
+			[
+				"adaptive",
+				"x264_adaptive_quant_frame"
+			],
+			[
+				"cli_out",
+				"cli_output_opt_t"
+			],
+			[
+				"encode",
+				"encode_frame"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
